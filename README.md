@@ -1,15 +1,15 @@
 # 🌟 Hilmi Salsabilla | Personal Portfolio Website
 
-[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://revou-fsse-oct25.github.io/milestone-1-HilmiSalsabilla/)
-[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/Revou-FSSE-Oct25/milestone-1-HilmiSalsabilla)
+[![Live Demo](https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge)](https://hilmisalsabilla.github.io/portfolio/index.html)
+[![GitHub](https://img.shields.io/badge/GitHub-Repository-blue?style=for-the-badge&logo=github)](https://github.com/HilmiSalsabilla/portfolio)
 
-> A modern and responsive personal portfolio website built with HTML5 and CSS3 as part of the RevoU FSSE Program Milestone 1.
+> A modern and responsive personal portfolio website built with HTML5 and CSS3.
 
 ## 📖 About This Project
 
 This is my personal portfolio website where I showcase my journey as a developer. The website features a clean, modern design with smooth navigation and fully responsive layout that works seamlessly across all devices.
 
-**🔗 Live Website:** [hilmisalsabilla.dev](https://revou-fsse-oct25.github.io/milestone-1-HilmiSalsabilla/)
+**🔗 Live Website:** [hilmisalsabilla.dev](https://hilmisalsabilla.github.io/portfolio/index.html)
 
 ## 📋 List of Contents
 
@@ -53,7 +53,7 @@ This is my personal portfolio website where I showcase my journey as a developer
 ## 📂 Project Structure
 
 ```
-milestone-1-HilmiSalsabilla/
+portfolio/
 ├── assets/
 │   ├── css/
 │   │   ├── index.css       # Homepage styles
@@ -62,6 +62,7 @@ milestone-1-HilmiSalsabilla/
 │   │   └── contact.css     # Contact page styles
 │   ├── document/           # PDF files and documents
 │   ├── images/             # Image assets
+│   ├── js/                 # Navbar scroll
 │   ├── logo/               # Logo files
 │   ├── preview/            # Preview screenshots
 │   │   ├── pages/          # Page screenshots
@@ -100,12 +101,12 @@ milestone-1-HilmiSalsabilla/
 
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/Revou-FSSE-Oct25/milestone-1-HilmiSalsabilla.git
+   git clone https://github.com/HilmiSalsabilla/portfolio.git
    ```
 
 2. **Navigate to the project directory**
    ```bash
-   cd milestone-1-HilmiSalsabilla
+   cd portfolio
    ```
 
 3. **Open in your browser**
@@ -181,11 +182,7 @@ This project is open source and available under the [MIT License](LICENSE).
 ---
 
 <div align="center">
-
-**⭐ If you like this project, please give it a star! ⭐**
-
-Made with ❤️ by Hilmi Salsabilla | RevoU FSSE Oct 2025
-
-[↑ Back to top](#-hilmi-salsabilla--personal-portfolio-website)
-
+   Made with ❤️ by Hilmi Salsabilla
+   
+   [↑ Back to top](#-hilmi-salsabilla--personal-portfolio-website)
 </div>
